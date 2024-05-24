@@ -15,7 +15,7 @@ By harnessing the power of machine learning techniques and leveraging the rich f
 + **Ensemble Learning: -** Mlxtend.
 + **Utility: -** Warnings, Math.
 
-## Comprehensive Approach to predict House oprice.
+## Comprehensive Approach to predict House price.
 
 + **Data Preprocessing:** Handled missing values using imputation techniques, encoded categorical variables using various methods such as target encoding, one-hot encoding, label encoding, and manual mapping based on domain knowledge. Performed feature scaling using log transformation and Yeo-Johnson power transformation.
 + **Exploratory Data Analysis:** Conducted data visualization to understand feature distributions and relationships with the target variable using histograms, Spearman's correlation for numerical columns, and box plots and ANOVA tests for categorical columns to select relevant features.
